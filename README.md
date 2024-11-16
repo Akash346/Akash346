@@ -1,6 +1,8 @@
 ![Banner](https://github.com/Akash346/ban/blob/main/Banner.jpg)
 # Hi there! 👋 I'm Akash Nallagonda
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akash346&color=blue&style=flat)
+
 🚀 **Data Engineer | Machine Learning Enthusiast | Cloud Aficionado**
 
 Driven to turn data into actionable insights and build scalable AI solutions. Skilled in data pipelines, cloud-based deployments, and machine learning models. Always exploring new technologies and eager to solve real-world problems!
@@ -9,13 +11,15 @@ Driven to turn data into actionable insights and build scalable AI solutions. Sk
 - Building end-to-end data pipelines on Azure and AWS.
 - Developing real-time computer vision solutions with YOLO.
 - Mentoring students in full-stack web development and data science.
-- 
-- ### 📄 My Resume
+
+### 📄 My Resume
 
 🔗 [Download My Resume](./AKASH_NALLAGONDA_RESUME.pdf)
 
 Learn more about my professional background, skills, and experience by downloading my resume!
 
+
+### 🛠️ Skills & Tools
 
 ### 🛠️ Skills & Tools
 
@@ -25,6 +29,23 @@ Learn more about my professional background, skills, and experience by downloadi
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 ### 💼 Professional Experience
 
