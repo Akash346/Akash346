@@ -1,5 +1,5 @@
-![Banner](https://github.com/Akash346/ban/blob/main/Banner.jpg))
-### Hi there! 👋 I'm Akash Nallagonda
+![Banner](https://github.com/Akash346/ban/blob/main/Banner.jpg)
+# Hi there! 👋 I'm Akash Nallagonda
 
 🚀 **Data Engineer | Machine Learning Enthusiast | Cloud Aficionado**
 
