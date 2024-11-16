@@ -1,4 +1,4 @@
-![Banner](https://github.com/Akash346/ban/blob/main/Banner.jpg)
+
 # Hi there! 👋 I'm Akash Nallagonda
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akash346&color=blue&style=flat)
