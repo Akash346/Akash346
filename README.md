@@ -1,8 +1,6 @@
 
 # Hi there! 👋 I'm Akash Nallagonda
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akash346&color=blue&style=flat)
-
 🚀 **Data Engineer | Machine Learning Enthusiast | Cloud Aficionado**
 
 Driven to turn data into actionable insights and build scalable AI solutions. Skilled in data pipelines, cloud-based deployments, and machine learning models. Always exploring new technologies and eager to solve real-world problems!
